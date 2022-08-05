@@ -3,7 +3,7 @@ library(tidyr)
 library(dplyr)
 
 #working directory
-setwd("C:/Maestría/Proyecto/ManipulacionBaseDatos")
+setwd("C:/MaestrÃ­a/Proyecto/ManipulacionBaseDatos")
 
 #read and filter data
 cockburn<-read.csv("Cockburn.Taxonomy.csv") #Cockburn

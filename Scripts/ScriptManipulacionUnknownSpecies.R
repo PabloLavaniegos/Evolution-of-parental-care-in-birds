@@ -3,7 +3,7 @@
 
 #set working directory
 
-setwd("C:/Maestría/Proyecto/ManipulacionBaseDatos")
+setwd("C:/MaestrÃ­a/Proyecto/ManipulacionBaseDatos")
 
 #load packages
 library(readr)
@@ -339,4 +339,4 @@ Breeding  #html interno
   <h2 id="repro">Breeding</h2>
   </div>
   </div>
-  Apr-Jun. Nest a cup placed 0·6-1·5 m from ground in sapling, thorn bush or bamboo clump. Clutch 3 eggs, pale blue, spotted and streaked with dark red. No other information.</section>
+  Apr-Jun. Nest a cup placed 0Â·6-1Â·5 m from ground in sapling, thorn bush or bamboo clump. Clutch 3 eggs, pale blue, spotted and streaked with dark red. No other information.</section>
